@@ -1,0 +1,4 @@
+requests
+lyricsgenius
+pandas
+jupyter
